@@ -1,7 +1,7 @@
 # Animal-Recognition-Image-Processing
 
 <p align="center">
-  <a href="https://animal-image-processing.herokuapp.com/">
+  <a href="https://animal-recognition-ai-app-c8135389da87.herokuapp.com/">
     <img src="picture11.png" alt="Logo" width=600 height=300>
   </a>
 
@@ -21,7 +21,7 @@ This web app recognizes animals from their images using machine learning.
 
 * Using Flask, I created a client-facing API.
 
-* Add an image. Get the name of the animal in it. [Try it!!!](https://animal-image-processing.herokuapp.com/)
+* Add an image. Get the name of the animal in it. [Try it!!!](https://animal-recognition-ai-app-c8135389da87.herokuapp.com/)
 
 ## Resources and Code
 
@@ -99,4 +99,4 @@ CKS = Cohen Kappa Score. >50% is usually good.
 
 In this step, I built a Flask API endpoint that was hosted on Heroku. The API webpage takes a photo of an animal and outputs the name of the animal that is in the photo.        
 
-https://animal-image-processing.herokuapp.com/
+https://animal-recognition-ai-app-c8135389da87.herokuapp.com/
