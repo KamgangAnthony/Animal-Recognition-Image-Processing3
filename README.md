@@ -31,7 +31,7 @@ This web app recognizes animals from their images using machine learning.
 
 **For Web Framework Requirements:**  ```pip install -r requirements.txt```   
 
-**Heroku Productionization:** https://animal-image-processing.herokuapp.com/
+**Heroku Productionization:** https://animal-recognition-ai-app-c8135389da87.herokuapp.com/
 
 ## Animal Types
 
